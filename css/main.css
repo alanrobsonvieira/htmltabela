@@ -1,0 +1,29 @@
+div {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-right: 300px;
+    padding-top: 10px;
+    float: left;
+}
+
+table#alter tr td { /* Toda a tabela com fundo creme */
+	background: #ffc;
+	} 
+
+    table#alter tr.dif td {
+        background: #eee; /* Linhas com fundo cinza */
+        }
+
+        #tab{
+
+            padding-left: 800px;
+        }
+
+    
+
+
+
+
+
+
